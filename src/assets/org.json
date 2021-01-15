@@ -1,5 +1,5 @@
 {
-  "name": "Ian Devling",
+  "name": "App Center",
   "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/cto.jpg",
   "area": "Corporate",
   "profileUrl": "http://example.com/employee/profile",
@@ -13,7 +13,7 @@
   "positionName": "Cheaf Executive Officer ",
   "children": [
     {
-      "name": " Leverling Janet",
+      "name": " AppDev",
       "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg",
       "area": "Corporate",
       "profileUrl": "http://example.com/employee/profile",
@@ -27,7 +27,7 @@
       "positionName": "CTO ",
       "children": [
         {
-          "name": "Peter Wilson",
+          "name": "Android",
           "isLoggedUser": false,
           "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
           "area": "Corporate",
@@ -56,7 +56,38 @@
               "positionName": "Anakyst Developer"
             }
           ]
-        }
+        },{"name":"iOS"},{"name":"ADD"}
+      ]
+    },
+    {
+      "name": "APE",
+      "isLoggedUser": false,
+      "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+      "area": "Corporate",
+      "profileUrl": "http://example.com/employee/profile",
+      "office": "CEO office",
+      "tags": "Ceo,tag1, tag2",
+      "unit": {
+        "type": "department",
+        "value": "Staf",
+        "desc": "Staff Department Description"
+      },
+      "positionName": "Head of channels",
+      "children": [
+        {
+          "name": "SIT",
+          "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+          "area": "Corporate",
+          "profileUrl": "http://example.com/employee/profile",
+          "office": "CEO office",
+          "tags": "Ceo,tag1, tag2",
+          "isLoggedUser": false,
+          "unit": {
+            "type": "department",
+            "value": "Staf"
+          },
+          "positionName": "Anakyst Developer"
+        },{"name":"RAD"}
       ]
     }
   ]
