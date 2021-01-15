@@ -56,7 +56,67 @@
               "positionName": "Anakyst Developer"
             }
           ]
-        },{"name":"iOS"},{"name":"ADD"}
+        },        {
+          "name": "iOS",
+          "isLoggedUser": false,
+          "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+          "area": "Corporate",
+          "profileUrl": "http://example.com/employee/profile",
+          "office": "CEO office",
+          "tags": "Ceo,tag1, tag2",
+          "unit": {
+            "type": "department",
+            "value": "Staf",
+            "desc": "Staff Department Description"
+          },
+          "positionName": "Head of channels",
+          "children": [
+            {
+              "name": " Lars Peterson",
+              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+              "area": "Corporate",
+              "profileUrl": "http://example.com/employee/profile",
+              "office": "CEO office",
+              "tags": "Ceo,tag1, tag2",
+              "isLoggedUser": false,
+              "unit": {
+                "type": "department",
+                "value": "Staf"
+              },
+              "positionName": "Anakyst Developer"
+            }
+          ]
+        },        {
+          "name": "ADD",
+          "isLoggedUser": false,
+          "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+          "area": "Corporate",
+          "profileUrl": "http://example.com/employee/profile",
+          "office": "CEO office",
+          "tags": "Ceo,tag1, tag2",
+          "unit": {
+            "type": "department",
+            "value": "Staf",
+            "desc": "Staff Department Description"
+          },
+          "positionName": "Head of channels",
+          "children": [
+            {
+              "name": " Lars Peterson",
+              "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+              "area": "Corporate",
+              "profileUrl": "http://example.com/employee/profile",
+              "office": "CEO office",
+              "tags": "Ceo,tag1, tag2",
+              "isLoggedUser": false,
+              "unit": {
+                "type": "department",
+                "value": "Staf"
+              },
+              "positionName": "Anakyst Developer"
+            }
+          ]
+        }
       ]
     },
     {
@@ -87,7 +147,20 @@
             "value": "Staf"
           },
           "positionName": "Anakyst Developer"
-        },{"name":"RAD"}
+        },        {
+          "name": "RAD",
+          "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+          "area": "Corporate",
+          "profileUrl": "http://example.com/employee/profile",
+          "office": "CEO office",
+          "tags": "Ceo,tag1, tag2",
+          "isLoggedUser": false,
+          "unit": {
+            "type": "department",
+            "value": "Staf"
+          },
+          "positionName": "Anakyst Developer"
+        }
       ]
     }
   ]
