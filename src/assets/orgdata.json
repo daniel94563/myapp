@@ -1,0 +1,512 @@
+[
+    {
+        "nodeId": "O-1518",
+        "parentNodeId": null,
+        "width": 350,
+        "height": 160,
+        "borderWidth": 0.6,
+        "borderRadius": 0,
+        "borderColor": {
+            "red": 15,
+            "green": 140,
+            "blue": 121,
+            "alpha": 0.7
+        },
+        "backgroundColor": {
+            "red": 247,
+            "green": 247,
+            "blue": 249,
+            "alpha": 0.4
+        },
+        "nodeIcon": {
+            "size": 50
+        },
+        "nodeImage": {
+            "url": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/cto.jpg",
+            "width": 100,
+            "height": 100,
+            "centerTopDistance": 66,
+            "centerLeftDistance": 66,
+            "cornerShape": "CIRCLE",
+            "shadow": false,
+            "borderWidth": 0,
+            "borderColor": {
+                "red": 19,
+                "green": 123,
+                "blue": 128,
+                "alpha": 0
+            }
+        },
+        "template": "<div style=\"color:#2A2A2A;height:160px;margin-top:-30px;background-image: linear-gradient(to right , #FFFFFF, #ECEDF0);\">\n                  <div style=\"margin-left:147px;\n                              margin-top:30px;\n                              padding-top:20px;\n                              font-size:20px;\n                              font-weight:bold;\n                         \">App Center </div>\n                 <div style=\"margin-left:147px;\n                              margin-top:3px;\n                              font-size:16px;\n                         \">Cheaf Executive Officer  </div>\n\n                 <div style=\"margin-left:147px;\n                              margin-top:3px;\n                              font-size:14px;\n                         \">Business first</div>\n\n                 <div style=\"margin-left:270px;\n                             margin-top:15px;\n                             font-size:13px;\n                             position:absolute;\n                             bottom:5px;\n                            \">\n                      <div>CTO office</div>\n                      <div style=\"margin-top:5px\">Corporate</div>\n                 </div>\n              </div>",
+        "connectorLineColor": {
+            "red": 59,
+            "green": 60,
+            "blue": 63,
+            "alpha": 1
+        },
+        "connectorLineWidth": 2,
+        "dashArray": "",
+        "expanded": false,
+        "directSubordinates": 2,
+        "totalSubordinates": 9
+    },
+    {
+        "nodeId": "O-1519",
+        "parentNodeId": "O-1518",
+        "width": 350,
+        "height": 160,
+        "borderWidth": 0.6,
+        "borderRadius": 0,
+        "borderColor": {
+            "red": 15,
+            "green": 140,
+            "blue": 121,
+            "alpha": 0.7
+        },
+        "backgroundColor": {
+            "red": 247,
+            "green": 247,
+            "blue": 249,
+            "alpha": 0.4
+        },
+        "nodeIcon": {
+            "size": 50
+        },
+        "nodeImage": {
+            "url": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg",
+            "width": 100,
+            "height": 100,
+            "centerTopDistance": 66,
+            "centerLeftDistance": 66,
+            "cornerShape": "CIRCLE",
+            "shadow": false,
+            "borderWidth": 0,
+            "borderColor": {
+                "red": 19,
+                "green": 123,
+                "blue": 128,
+                "alpha": 0
+            }
+        },
+        "template": "<div style=\"color:#2A2A2A;height:160px;margin-top:-30px;background-image: linear-gradient(to right , #FFFFFF, #ECEDF0);\">\n                  <div style=\"margin-left:147px;\n                              margin-top:30px;\n                              padding-top:20px;\n                              font-size:20px;\n                              font-weight:bold;\n                         \"> AppDev </div>\n                 <div style=\"margin-left:147px;\n                              margin-top:3px;\n                              font-size:16px;\n                         \">CTO  </div>\n\n                 <div style=\"margin-left:147px;\n                              margin-top:3px;\n                              font-size:14px;\n                         \">Business four </div>\n\n                 <div style=\"margin-left:270px;\n                             margin-top:15px;\n                             font-size:13px;\n                             position:absolute;\n                             bottom:5px;\n                            \">\n                      <div>CEO office</div>\n                      <div style=\"margin-top:5px\">Corporate</div>\n                 </div>\n              </div>",
+        "connectorLineColor": {
+            "red": 59,
+            "green": 60,
+            "blue": 63,
+            "alpha": 1
+        },
+        "connectorLineWidth": 2,
+        "dashArray": "",
+        "expanded": false,
+        "directSubordinates": 3,
+        "totalSubordinates": 5
+    },
+    {
+        "nodeId": "O-1520",
+        "parentNodeId": "O-1518",
+        "width": 350,
+        "height": 160,
+        "borderWidth": 0.6,
+        "borderRadius": 0,
+        "borderColor": {
+            "red": 15,
+            "green": 140,
+            "blue": 121,
+            "alpha": 0.7
+        },
+        "backgroundColor": {
+            "red": 247,
+            "green": 247,
+            "blue": 249,
+            "alpha": 0.4
+        },
+        "nodeIcon": {
+            "size": 50
+        },
+        "nodeImage": {
+            "url": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+            "width": 100,
+            "height": 100,
+            "centerTopDistance": 66,
+            "centerLeftDistance": 66,
+            "cornerShape": "CIRCLE",
+            "shadow": false,
+            "borderWidth": 0,
+            "borderColor": {
+                "red": 19,
+                "green": 123,
+                "blue": 128,
+                "alpha": 0
+            }
+        },
+        "template": "<div style=\"color:#2A2A2A;height:160px;margin-top:-30px;background-image: linear-gradient(to right , #FFFFFF, #ECEDF0);\">\n                  <div style=\"margin-left:147px;\n                              margin-top:30px;\n                              padding-top:20px;\n                              font-size:20px;\n                              font-weight:bold;\n                         \">APE </div>\n                 <div style=\"margin-left:147px;\n                              margin-top:3px;\n                              font-size:16px;\n                         \">Head of channels </div>\n\n                 <div style=\"margin-left:147px;\n                              margin-top:3px;\n                              font-size:14px;\n                         \">Staf</div>\n\n                 <div style=\"margin-left:270px;\n                             margin-top:15px;\n                             font-size:13px;\n                             position:absolute;\n                             bottom:5px;\n                            \">\n                      <div>CEO office</div>\n                      <div style=\"margin-top:5px\">Corporate</div>\n                 </div>\n              </div>",
+        "connectorLineColor": {
+            "red": 59,
+            "green": 60,
+            "blue": 63,
+            "alpha": 1
+        },
+        "connectorLineWidth": 2,
+        "dashArray": "",
+        "expanded": false,
+        "directSubordinates": 2,
+        "totalSubordinates": 2
+    },
+    {
+        "nodeId": "O-1521",
+        "parentNodeId": "O-1519",
+        "width": 350,
+        "height": 160,
+        "borderWidth": 0.6,
+        "borderRadius": 0,
+        "borderColor": {
+            "red": 15,
+            "green": 140,
+            "blue": 121,
+            "alpha": 0.7
+        },
+        "backgroundColor": {
+            "red": 247,
+            "green": 247,
+            "blue": 249,
+            "alpha": 0.4
+        },
+        "nodeIcon": {
+            "size": 50
+        },
+        "nodeImage": {
+            "url": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+            "width": 100,
+            "height": 100,
+            "centerTopDistance": 66,
+            "centerLeftDistance": 66,
+            "cornerShape": "CIRCLE",
+            "shadow": false,
+            "borderWidth": 0,
+            "borderColor": {
+                "red": 19,
+                "green": 123,
+                "blue": 128,
+                "alpha": 0
+            }
+        },
+        "template": "<div style=\"color:#2A2A2A;height:160px;margin-top:-30px;background-image: linear-gradient(to right , #FFFFFF, #ECEDF0);\">\n                  <div style=\"margin-left:147px;\n                              margin-top:30px;\n                              padding-top:20px;\n                              font-size:20px;\n                              font-weight:bold;\n                         \">Android </div>\n                 <div style=\"margin-left:147px;\n                              margin-top:3px;\n                              font-size:16px;\n                         \">Head of channels </div>\n\n                 <div style=\"margin-left:147px;\n                              margin-top:3px;\n                              font-size:14px;\n                         \">Staf</div>\n\n                 <div style=\"margin-left:270px;\n                             margin-top:15px;\n                             font-size:13px;\n                             position:absolute;\n                             bottom:5px;\n                            \">\n                      <div>CEO office</div>\n                      <div style=\"margin-top:5px\">Corporate</div>\n                 </div>\n              </div>",
+        "connectorLineColor": {
+            "red": 59,
+            "green": 60,
+            "blue": 63,
+            "alpha": 1
+        },
+        "connectorLineWidth": 2,
+        "dashArray": "",
+        "expanded": true,
+        "directSubordinates": 1,
+        "totalSubordinates": 1
+    },
+    {
+        "nodeId": "O-1522",
+        "parentNodeId": "O-1519",
+        "width": 350,
+        "height": 160,
+        "borderWidth": 0.6,
+        "borderRadius": 0,
+        "borderColor": {
+            "red": 15,
+            "green": 140,
+            "blue": 121,
+            "alpha": 0.7
+        },
+        "backgroundColor": {
+            "red": 247,
+            "green": 247,
+            "blue": 249,
+            "alpha": 0.4
+        },
+        "nodeIcon": {
+            "size": 50
+        },
+        "nodeImage": {
+            "url": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+            "width": 100,
+            "height": 100,
+            "centerTopDistance": 66,
+            "centerLeftDistance": 66,
+            "cornerShape": "CIRCLE",
+            "shadow": false,
+            "borderWidth": 0,
+            "borderColor": {
+                "red": 19,
+                "green": 123,
+                "blue": 128,
+                "alpha": 0
+            }
+        },
+        "template": "<div style=\"color:#2A2A2A;height:160px;margin-top:-30px;background-image: linear-gradient(to right , #FFFFFF, #ECEDF0);\">\n                  <div style=\"margin-left:147px;\n                              margin-top:30px;\n                              padding-top:20px;\n                              font-size:20px;\n                              font-weight:bold;\n                         \">iOS </div>\n                 <div style=\"margin-left:147px;\n                              margin-top:3px;\n                              font-size:16px;\n                         \">Head of channels </div>\n\n                 <div style=\"margin-left:147px;\n                              margin-top:3px;\n                              font-size:14px;\n                         \">Staf</div>\n\n                 <div style=\"margin-left:270px;\n                             margin-top:15px;\n                             font-size:13px;\n                             position:absolute;\n                             bottom:5px;\n                            \">\n                      <div>CEO office</div>\n                      <div style=\"margin-top:5px\">Corporate</div>\n                 </div>\n              </div>",
+        "connectorLineColor": {
+            "red": 59,
+            "green": 60,
+            "blue": 63,
+            "alpha": 1
+        },
+        "connectorLineWidth": 2,
+        "dashArray": "",
+        "expanded": true,
+        "directSubordinates": 1,
+        "totalSubordinates": 1
+    },
+    {
+        "nodeId": "O-1523",
+        "parentNodeId": "O-1519",
+        "width": 350,
+        "height": 160,
+        "borderWidth": 0.6,
+        "borderRadius": 0,
+        "borderColor": {
+            "red": 15,
+            "green": 140,
+            "blue": 121,
+            "alpha": 0.7
+        },
+        "backgroundColor": {
+            "red": 247,
+            "green": 247,
+            "blue": 249,
+            "alpha": 0.4
+        },
+        "nodeIcon": {
+            "size": 50
+        },
+        "nodeImage": {
+            "url": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+            "width": 100,
+            "height": 100,
+            "centerTopDistance": 66,
+            "centerLeftDistance": 66,
+            "cornerShape": "CIRCLE",
+            "shadow": false,
+            "borderWidth": 0,
+            "borderColor": {
+                "red": 19,
+                "green": 123,
+                "blue": 128,
+                "alpha": 0
+            }
+        },
+        "template": "<div style=\"color:#2A2A2A;height:160px;margin-top:-30px;background-image: linear-gradient(to right , #FFFFFF, #ECEDF0);\">\n                  <div style=\"margin-left:147px;\n                              margin-top:30px;\n                              padding-top:20px;\n                              font-size:20px;\n                              font-weight:bold;\n                         \">ADD </div>\n                 <div style=\"margin-left:147px;\n                              margin-top:3px;\n                              font-size:16px;\n                         \">Head of channels </div>\n\n                 <div style=\"margin-left:147px;\n                              margin-top:3px;\n                              font-size:14px;\n                         \">Staf</div>\n\n                 <div style=\"margin-left:270px;\n                             margin-top:15px;\n                             font-size:13px;\n                             position:absolute;\n                             bottom:5px;\n                            \">\n                      <div>CEO office</div>\n                      <div style=\"margin-top:5px\">Corporate</div>\n                 </div>\n              </div>",
+        "connectorLineColor": {
+            "red": 59,
+            "green": 60,
+            "blue": 63,
+            "alpha": 1
+        },
+        "connectorLineWidth": 2,
+        "dashArray": "",
+        "expanded": true,
+        "directSubordinates": 0,
+        "totalSubordinates": 0
+    },
+    {
+        "nodeId": "O-1524",
+        "parentNodeId": "O-1520",
+        "width": 350,
+        "height": 160,
+        "borderWidth": 0.6,
+        "borderRadius": 0,
+        "borderColor": {
+            "red": 15,
+            "green": 140,
+            "blue": 121,
+            "alpha": 0.7
+        },
+        "backgroundColor": {
+            "red": 247,
+            "green": 247,
+            "blue": 249,
+            "alpha": 0.4
+        },
+        "nodeIcon": {
+            "size": 50
+        },
+        "nodeImage": {
+            "url": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+            "width": 100,
+            "height": 100,
+            "centerTopDistance": 66,
+            "centerLeftDistance": 66,
+            "cornerShape": "CIRCLE",
+            "shadow": false,
+            "borderWidth": 0,
+            "borderColor": {
+                "red": 19,
+                "green": 123,
+                "blue": 128,
+                "alpha": 0
+            }
+        },
+        "template": "<div style=\"color:#2A2A2A;height:160px;margin-top:-30px;background-image: linear-gradient(to right , #FFFFFF, #ECEDF0);\">\n                  <div style=\"margin-left:147px;\n                              margin-top:30px;\n                              padding-top:20px;\n                              font-size:20px;\n                              font-weight:bold;\n                         \">SIT </div>\n                 <div style=\"margin-left:147px;\n                              margin-top:3px;\n                              font-size:16px;\n                         \">Anakyst Developer </div>\n\n                 <div style=\"margin-left:147px;\n                              margin-top:3px;\n                              font-size:14px;\n                         \">Staf</div>\n\n                 <div style=\"margin-left:270px;\n                             margin-top:15px;\n                             font-size:13px;\n                             position:absolute;\n                             bottom:5px;\n                            \">\n                      <div>CEO office</div>\n                      <div style=\"margin-top:5px\">Corporate</div>\n                 </div>\n              </div>",
+        "connectorLineColor": {
+            "red": 59,
+            "green": 60,
+            "blue": 63,
+            "alpha": 1
+        },
+        "connectorLineWidth": 2,
+        "dashArray": "",
+        "expanded": false,
+        "directSubordinates": 0,
+        "totalSubordinates": 0
+    },
+    {
+        "nodeId": "O-1525",
+        "parentNodeId": "O-1520",
+        "width": 350,
+        "height": 160,
+        "borderWidth": 0.6,
+        "borderRadius": 0,
+        "borderColor": {
+            "red": 15,
+            "green": 140,
+            "blue": 121,
+            "alpha": 0.7
+        },
+        "backgroundColor": {
+            "red": 247,
+            "green": 247,
+            "blue": 249,
+            "alpha": 0.4
+        },
+        "nodeIcon": {
+            "size": 50
+        },
+        "nodeImage": {
+            "url": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+            "width": 100,
+            "height": 100,
+            "centerTopDistance": 66,
+            "centerLeftDistance": 66,
+            "cornerShape": "CIRCLE",
+            "shadow": false,
+            "borderWidth": 0,
+            "borderColor": {
+                "red": 19,
+                "green": 123,
+                "blue": 128,
+                "alpha": 0
+            }
+        },
+        "template": "<div style=\"color:#2A2A2A;height:160px;margin-top:-30px;background-image: linear-gradient(to right , #FFFFFF, #ECEDF0);\">\n                  <div style=\"margin-left:147px;\n                              margin-top:30px;\n                              padding-top:20px;\n                              font-size:20px;\n                              font-weight:bold;\n                         \">SIT </div>\n                 <div style=\"margin-left:147px;\n                              margin-top:3px;\n                              font-size:16px;\n                         \">Anakyst Developer </div>\n\n                 <div style=\"margin-left:147px;\n                              margin-top:3px;\n                              font-size:14px;\n                         \">Staf</div>\n\n                 <div style=\"margin-left:270px;\n                             margin-top:15px;\n                             font-size:13px;\n                             position:absolute;\n                             bottom:5px;\n                            \">\n                      <div>CEO office</div>\n                      <div style=\"margin-top:5px\">Corporate</div>\n                 </div>\n              </div>",
+        "connectorLineColor": {
+            "red": 59,
+            "green": 60,
+            "blue": 63,
+            "alpha": 1
+        },
+        "connectorLineWidth": 2,
+        "dashArray": "",
+        "expanded": false,
+        "directSubordinates": 0,
+        "totalSubordinates": 0
+    },
+    {
+        "nodeId": "O-1526",
+        "parentNodeId": "O-1521",
+        "width": 350,
+        "height": 160,
+        "borderWidth": 0.6,
+        "borderRadius": 0,
+        "borderColor": {
+            "red": 15,
+            "green": 140,
+            "blue": 121,
+            "alpha": 0.7
+        },
+        "backgroundColor": {
+            "red": 247,
+            "green": 247,
+            "blue": 249,
+            "alpha": 0.4
+        },
+        "nodeIcon": {
+            "size": 50
+        },
+        "nodeImage": {
+            "url": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+            "width": 100,
+            "height": 100,
+            "centerTopDistance": 66,
+            "centerLeftDistance": 66,
+            "cornerShape": "CIRCLE",
+            "shadow": false,
+            "borderWidth": 0,
+            "borderColor": {
+                "red": 19,
+                "green": 123,
+                "blue": 128,
+                "alpha": 0
+            }
+        },
+        "template": "<div style=\"color:#2A2A2A;height:160px;margin-top:-30px;background-image: linear-gradient(to right , #FFFFFF, #ECEDF0);\">\n                  <div style=\"margin-left:147px;\n                              margin-top:30px;\n                              padding-top:20px;\n                              font-size:20px;\n                              font-weight:bold;\n                         \"> Lars Peterson </div>\n                 <div style=\"margin-left:147px;\n                              margin-top:3px;\n                              font-size:16px;\n                         \">Anakyst Developer </div>\n\n                 <div style=\"margin-left:147px;\n                              margin-top:3px;\n                              font-size:14px;\n                         \">Staf</div>\n\n                 <div style=\"margin-left:270px;\n                             margin-top:15px;\n                             font-size:13px;\n                             position:absolute;\n                             bottom:5px;\n                            \">\n                      <div>CEO office</div>\n                      <div style=\"margin-top:5px\">Corporate</div>\n                 </div>\n              </div>",
+        "connectorLineColor": {
+            "red": 59,
+            "green": 60,
+            "blue": 63,
+            "alpha": 1
+        },
+        "connectorLineWidth": 2,
+        "dashArray": "",
+        "expanded": false,
+        "directSubordinates": 0,
+        "totalSubordinates": 0
+    },
+    {
+        "nodeId": "O-1527",
+        "parentNodeId": "O-1522",
+        "width": 350,
+        "height": 160,
+        "borderWidth": 0.6,
+        "borderRadius": 0,
+        "borderColor": {
+            "red": 15,
+            "green": 140,
+            "blue": 121,
+            "alpha": 0.7
+        },
+        "backgroundColor": {
+            "red": 247,
+            "green": 247,
+            "blue": 249,
+            "alpha": 0.4
+        },
+        "nodeIcon": {
+            "size": 50
+        },
+        "nodeImage": {
+            "url": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+            "width": 100,
+            "height": 100,
+            "centerTopDistance": 66,
+            "centerLeftDistance": 66,
+            "cornerShape": "CIRCLE",
+            "shadow": false,
+            "borderWidth": 0,
+            "borderColor": {
+                "red": 19,
+                "green": 123,
+                "blue": 128,
+                "alpha": 0
+            }
+        },
+        "template": "<div style=\"color:#2A2A2A;height:160px;margin-top:-30px;background-image: linear-gradient(to right , #FFFFFF, #ECEDF0);\">\n                  <div style=\"margin-left:147px;\n                              margin-top:30px;\n                              padding-top:20px;\n                              font-size:20px;\n                              font-weight:bold;\n                         \"> Lars Peterson </div>\n                 <div style=\"margin-left:147px;\n                              margin-top:3px;\n                              font-size:16px;\n                         \">Anakyst Developer </div>\n\n                 <div style=\"margin-left:147px;\n                              margin-top:3px;\n                              font-size:14px;\n                         \">Staf</div>\n\n                 <div style=\"margin-left:270px;\n                             margin-top:15px;\n                             font-size:13px;\n                             position:absolute;\n                             bottom:5px;\n                            \">\n                      <div>undefined</div>\n                      <div style=\"margin-top:5px\">Corporate</div>\n                 </div>\n              </div>",
+        "connectorLineColor": {
+            "red": 59,
+            "green": 60,
+            "blue": 63,
+            "alpha": 1
+        },
+        "connectorLineWidth": 2,
+        "dashArray": "",
+        "expanded": true,
+        "directSubordinates": 0,
+        "totalSubordinates": 0
+    }
+]
